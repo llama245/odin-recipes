@@ -1,0 +1,1 @@
+This project consists of a recipe website. This project will be revisited at a later date and CSS styling will be added to it. 
